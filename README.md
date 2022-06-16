@@ -7,4 +7,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfernandez13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/juanfernandez13/juanfernandez13/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
