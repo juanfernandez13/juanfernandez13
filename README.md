@@ -1,76 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=45BBFF&height=140&section=header&text=Juan%20Fernandez&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20-%20AI%20and%20Python&descSize=18&descAlignY=58"/>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=45BBFF&size=22&center=true&vCenter=true&width=900&lines=Building+intelligent+solutions+with+AI;Prompt+Engineer+%7C+LLMs+%7C+Automation;Full+Stack+%7C+Shopify+%7C+Next.js;React+Native+%7C+Flutter+%7C+Mobile+Dev;From+Eusebio%2C+CE+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:45BBFF&height=120&section=header" alt=""/>
 
----
+<h1 style="margin-top: -12px;">Juan Fernandez</h1>
 
-## 🤖 AI & Automation
+I'm a computer engineer from IFCE, currently working as a Mid-level Analyst at the Court of Auditors of the State of Ceará (TCE Ceará) and as a software engineer at Hunni Dev. Day to day I wire AI APIs — OpenAI, Gemini, Claude, Azure — into real products with Python and TypeScript, from retrieval-augmented generation to process automation, and I've also worked on front-end with Next.js/React, mobile with Flutter and React Native, and distributed systems in Java during my degree. Based in Fortaleza, Brazil.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=45BBFF"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
-  <img src="https://img.shields.io/badge/N8N-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-  <img src="https://img.shields.io/badge/Botpress-0D1117?style=for-the-badge&logo=botpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/juanfernandez13) · [juanfernandez.app@gmail.com](mailto:juanfernandez.app@gmail.com)
 
-## 🌐 Frontend & E-commerce
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Shopify-0D1117?style=for-the-badge&logo=shopify&logoColor=96BF48"/>
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF"/>
-</p>
+**AI & Automation** — Python, TypeScript, OpenAI API, Gemini, Claude, Azure, N8N, RAG, MCP
+<br>
+**Frontend** — Next.js, React, TypeScript, Tailwind CSS
+<br>
+**Backend** — Node.js, Express, PostgreSQL, SQLite, Redis, Prisma ORM
+<br>
+**Mobile** — React Native, Flutter
+<br>
+**E-commerce** — Shopify, WooCommerce
+<br>
+**Testing & Scraping** — Playwright, Puppeteer, Cypress, Cheerio, Crawlee
 
-## 📱 Mobile
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=45BBFF"/>
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=45BBFF"/>
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=45BBFF"/>
-</p>
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-## 🛢️ Backend & Database
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
+<img src="./metrics/perfil.svg" width="100%" alt="Overall profile metrics" />
 
----
+<br>
 
-## 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%"><img src="./metrics/calendario.svg" width="100%" alt="Isometric contribution calendar" /></td>
+    <td width="50%"><img src="./metrics/linguagens.svg" width="100%" alt="Most used languages" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfernandez13&theme=transparent&hide_border=true&stroke=45BBFF&ring=45BBFF&currStreakLabel=45BBFF&fire=45BBFF&sideLabels=45BBFF&dates=888"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=juanfernandez13&show_icons=true&theme=transparent&hide_border=true&title_color=45BBFF&icon_color=45BBFF&text_color=c9d1d9"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfernandez13&layout=compact&theme=transparent&hide_border=true&title_color=45BBFF&text_color=c9d1d9"/>
-</p>
+## Projects
 
----
+**[CourseGen AI](https://github.com/juanfernandez13/CourseGen-AI)** converts course planning documents (`.docx`) into Moodle backup packages (`.mbz`) ready to import, using Gemini to extract the course structure; to get around Vercel's 4.5MB upload limit, uploads go straight from the browser to Blob Storage using server-signed URLs.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juanfernandez13">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-  </a>
-  <a href="mailto:juanfernandez.app@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://github.com/juanfernandez13">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**[python_agent](https://github.com/juanfernandez13/python_agent)** is a Q&A backend that retrieves context from a Markdown knowledge base before calling the LLM, built with FastAPI and Pydantic; citations only make it into the response if the section title actually appears in the generated text, which keeps the source attribution honest.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:45BBFF&height=100&section=footer"/>
+**[chat_offline_ppd](https://github.com/juanfernandez13/chat_offline_ppd)** delivers messages instantly when the recipient is online and queues them when offline; the interesting call was hiding JMS/ActiveMQ behind an RMI interface, so the client never talks to the queue directly, only calls remote methods.
+
+**[Classificacao-folhas](https://github.com/juanfernandez13/Classificacao-folhas)** classifies leaves from 32 species out of ~1,900 images using classical computer vision instead of deep learning — k-means segmentation, ten shape/texture descriptors reduced via PCA (93% of variance in 4 components), and SVM, which kept the pipeline interpretable and lightweight.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:45BBFF&height=100&section=footer" alt=""/>
